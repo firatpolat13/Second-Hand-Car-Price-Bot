@@ -1,0 +1,5617 @@
+Page No: 1
+**************************************************
+Brand: MINI
+Model: Cooper
+Description: ['1.5', 'D', 'Pepper']
+Year: 2016
+Price: 185.000 TL
+******************************
+Brand: Hyundai
+Model: Getz
+Description: ['1.4', 'DOHC', 'Start']
+Year: 2011
+Price: 63.500 TL
+******************************
+Brand: Hyundai
+Model: Matrix
+Description: ['1.5', 'CRDi', 'GLS']
+Year: 2007
+Price: 51.500 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.4', 'CVVT', 'Mode', 'Plus']
+Year: 2012
+Price: 85.000 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'TDi', 'Trendline']
+Year: 2015
+Price: 149.850 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Authentique']
+Year: 2007
+Price: 52.750 TL
+******************************
+Brand: Peugeot
+Model: 208
+Description: ['1.4', 'HDi', 'Active']
+Year: 2013
+Price: 79.500 TL
+******************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.2', 'VTi', 'Comfort']
+Year: 2014
+Price: 79.950 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2018
+Price: 194.500 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320d', 'Premium']
+Year: 2009
+Price: 110.000 TL
+******************************
+Brand: Chevrolet
+Model: Cruze
+Description: ['1.6', 'LS']
+Year: 2010
+Price: 56.500 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.8', 'Comfortline']
+Year: 2000
+Price: 46.250 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'MPI', 'Style', 'Design']
+Year: 2019
+Price: 133.900 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Enjoy']
+Year: 2007
+Price: 53.750 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Extreme']
+Year: 2008
+Price: 49.900 TL
+******************************
+Brand: Peugeot
+Model: 206
+Description: ['1.4', 'HDi', 'X-line']
+Year: 2005
+Price: 35.000 TL
+******************************
+Brand: Opel
+Model: Vectra
+Description: ['1.6', 'Comfort']
+Year: 2004
+Price: 47.500 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'CDTI', 'Enjoy']
+Year: 2015
+Price: 125.950 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'CDTI', 'Design']
+Year: 2016
+Price: 121.950 TL
+******************************
+Brand: Audi
+Model: A6
+Description: ['Sedan', '2.0', 'TDI']
+Year: 2010
+Price: 135.000 TL
+******************************
+Page No: 2
+**************************************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2014
+Price: 141.900 TL
+******************************
+Brand: Dacia
+Model: Sandero
+Description: ['1.5', 'dCi', 'Stepway']
+Year: 2014
+Price: 82.950 TL
+******************************
+Brand: Kia
+Model: Rio
+Description: ['1.5', 'CRDi', 'Trend']
+Year: 2011
+Price: 41.500 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['1.5', 'GLS']
+Year: 1996
+Price: 22.999 TL
+******************************
+Brand: Nissan
+Model: Micra
+Description: ['1.2', 'Tekna']
+Year: 2005
+Price: 58.000 TL
+******************************
+Brand: Nissan
+Model: Micra
+Description: ['1.2', 'Match']
+Year: 2018
+Price: 109.000 TL
+******************************
+Brand: Nissan
+Model: Micra
+Description: ['1.2', 'Match']
+Year: 2018
+Price: 113.750 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'CDTI', 'Design']
+Year: 2016
+Price: 114.750 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Highline']
+Year: 2015
+Price: 262.750 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'TDi', 'Comfortline']
+Year: 2015
+Price: 122.750 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'Premium']
+Year: 2010
+Price: 98.750 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Impression']
+Year: 2019
+Price: 234.900 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'Blue', 'DCI', 'Touch']
+Year: 2017
+Price: 139.900 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Mode', 'Plus']
+Year: 2017
+Price: 113.750 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Touch', 'Plus']
+Year: 2016
+Price: 98.500 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'Elegance']
+Year: 2011
+Price: 103.500 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'ECO', 'Elegance']
+Year: 2016
+Price: 143.000 TL
+******************************
+Brand: Renault
+Model: Latitude
+Description: ['1.5', 'dCi', 'Expression']
+Year: 2012
+Price: 55.555 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'MPI', 'Elite']
+Year: 2015
+Price: 66.666 TL
+******************************
+Brand: Fiat
+Model: Punto
+Description: ['Grande', '1.4', 'Fire', 'S&S']
+Year: 2012
+Price: 58.500 TL
+******************************
+Page No: 3
+**************************************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Collection']
+Year: 2011
+Price: 59.500 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.4', 'T', 'Edition', 'Plus']
+Year: 2018
+Price: 132.500 TL
+******************************
+Brand: Citroen
+Model: C3
+Description: ['1.4', 'HDi', 'X', 'Furio']
+Year: 2006
+Price: 38.500 TL
+******************************
+Brand: Toyota
+Model: Auris
+Description: ['1.4', 'D-4D', 'Comfort']
+Year: 2008
+Price: 76.000 TL
+******************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '520d', 'Exclusive']
+Year: 2011
+Price: 179.000 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '316i', 'Standart']
+Year: 2009
+Price: 105.000 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Active', 'Plus']
+Year: 2013
+Price: 57.750 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'TDi', 'Comfortline']
+Year: 2013
+Price: 115.500 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2016
+Price: 97.500 TL
+******************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.6', 'HDi', 'Attraction']
+Year: 2014
+Price: 55.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2019
+Price: 176.000 TL
+******************************
+Brand: Nissan
+Model: Micra
+Description: ['1.2', 'Tekna']
+Year: 2008
+Price: 60.000 TL
+******************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '525d', 'xDrive', 'Executive', 'M', 'Sport']
+Year: 2014
+Price: 407.750 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2013
+Price: 40.900 TL
+******************************
+Brand: Volkswagen
+Model: VW
+Description: ['CC', '1.4', 'TSi']
+Year: 2012
+Price: 143.750 TL
+******************************
+Brand: BMW
+Model: 4
+Description: ['Serisi', '418i', 'Gran', 'Coupe', 'M', 'Sport']
+Year: 2016
+Price: 287.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Comfortline']
+Year: 2014
+Price: 104.500 TL
+******************************
+Brand: Volkswagen
+Model: Scirocco
+Description: ['1.4', 'TSi', 'Sportline']
+Year: 2011
+Price: 98.000 TL
+******************************
+Brand: Chevrolet
+Model: Cruze
+Description: ['1.6', 'Sport', 'Plus']
+Year: 2013
+Price: 90.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2014
+Price: 144.900 TL
+******************************
+Page No: 4
+**************************************************
+Brand: Dacia
+Model: Lodgy
+Description: ['1.5', 'dCi', 'Laureate']
+Year: 2014
+Price: 79.500 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.6', 'GLi']
+Year: 1996
+Price: 35.700 TL
+******************************
+Brand: Skoda
+Model: SuperB
+Description: ['1.6', 'TDI', 'Style']
+Year: 2018
+Price: 210.000 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2016
+Price: 159.000 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Trend', 'X']
+Year: 2016
+Price: 117.500 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'MPI', 'Jump']
+Year: 2017
+Price: 97.750 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'Enjoy', 'Plus']
+Year: 2012
+Price: 74.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.4', 'TSi', 'BlueMotion', 'Comfortline']
+Year: 2015
+Price: 185.000 TL
+******************************
+Brand: Skoda
+Model: Octavia
+Description: ['1.6', 'TDI', 'Optimal']
+Year: 2016
+Price: 119.850 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.3', 'Multijet', 'Easy']
+Year: 2017
+Price: 84.850 TL
+******************************
+Brand: Skoda
+Model: Octavia
+Description: ['1.6', 'TDI', 'Optimal']
+Year: 2016
+Price: 111.850 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Mode', 'Plus']
+Year: 2016
+Price: 104.850 TL
+******************************
+Brand: Tata
+Model: Vista
+Description: ['1.3', 'TDI', 'Quadrojet', 'Aura']
+Year: 2012
+Price: 36.900 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Impression']
+Year: 2017
+Price: 188.500 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'Titanium', 'X']
+Year: 2011
+Price: 87.500 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Collection']
+Year: 2011
+Price: 86.500 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.4', 'Fire', 'Easy']
+Year: 2019
+Price: 93.900 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Business']
+Year: 2011
+Price: 76.900 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', '200', 'E']
+Year: 1991
+Price: 29.950 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Comfort']
+Year: 2008
+Price: 39.950 TL
+******************************
+
+Page No: 5
+**************************************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Collection']
+Year: 2011
+Price: 86.500 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.4', 'Fire', 'Easy']
+Year: 2019
+Price: 93.900 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Business']
+Year: 2011
+Price: 76.900 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', '200', 'E']
+Year: 1991
+Price: 29.950 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Comfort']
+Year: 2008
+Price: 39.950 TL
+******************************
+Brand: Fiat
+Model: Punto
+Description: ['Grande', '1.3', 'Multijet']
+Year: 2012
+Price: 53.000 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320i']
+Year: 1991
+Price: 35.500 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '200', 'BlueTEC', 'AMG']
+Year: 2017
+Price: 323.000 TL
+******************************
+Brand: Peugeot
+Model: 508
+Description: ['1.5', 'BlueHDI', 'Allure']
+Year: 2019
+Price: 265.500 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2018
+Price: 91.500 TL
+******************************
+Brand: Fiat
+Model: Brava
+Description: ['1.6', 'SX']
+Year: 1999
+Price: 36.750 TL
+******************************
+Brand: Hyundai
+Model: Elantra
+Description: ['1.6', 'D-CVVT', 'Tune']
+Year: 2013
+Price: 103.500 TL
+******************************
+Brand: Skoda
+Model: Octavia
+Description: ['1.6', 'TDI', 'Optimal']
+Year: 2017
+Price: 158.750 TL
+******************************
+Brand: Citroen
+Model: C4
+Description: ['1.6', 'HDi', 'Attraction']
+Year: 2013
+Price: 75.900 TL
+******************************
+Brand: Opel
+Model: Vectra
+Description: ['1.6', 'Comfort']
+Year: 2008
+Price: 69.750 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.6', 'Dynamique']
+Year: 2004
+Price: 52.000 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'Comfortline']
+Year: 2001
+Price: 48.750 TL
+******************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.6', 'HDi', 'Live']
+Year: 2017
+Price: 77.500 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2014
+Price: 167.000 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'FSi', 'Comfortline']
+Year: 2006
+Price: 78.000 TL
+******************************
+Page No: 6
+**************************************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Biz']
+Year: 2014
+Price: 91.900 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.3', 'Multijet', 'Urban']
+Year: 2018
+Price: 96.400 TL
+******************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '525d', 'xDrive', 'Premium']
+Year: 2012
+Price: 265.000 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.5', 'TDCi', 'Trend', 'X']
+Year: 2014
+Price: 88.500 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.2', 'TSi', 'Comfortline']
+Year: 2015
+Price: 129.500 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.4', 'Fire', 'Easy']
+Year: 2018
+Price: 99.900 TL
+******************************
+Brand: Volkswagen
+Model: Bora
+Description: ['1.6', 'Highline']
+Year: 2002
+Price: 39.900 TL
+******************************
+Brand: BMW
+Model: 1
+Description: ['Serisi', '116i', 'Premium']
+Year: 2009
+Price: 98.900 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'Trendline']
+Year: 2012
+Price: 76.900 TL
+******************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '520d', 'Standart']
+Year: 2008
+Price: 99.500 TL
+******************************
+Brand: Skoda
+Model: Octavia
+Description: ['1.6', 'Tour']
+Year: 2008
+Price: 55.900 TL
+******************************
+Brand: Toyota
+Model: Auris
+Description: ['1.6', 'Elegant']
+Year: 2009
+Price: 100.000 TL
+******************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '520i', 'Premium']
+Year: 2015
+Price: 273.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2016
+Price: 89.000 TL
+******************************
+Brand: Hyundai
+Model: Elantra
+Description: ['1.6', 'D-CVVT', 'Style']
+Year: 2017
+Price: 126.500 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Mode', 'Plus']
+Year: 2016
+Price: 117.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.3', 'CDTI', 'Enjoy']
+Year: 2007
+Price: 59.500 TL
+******************************
+Brand: Tofaş
+Model: Şahin
+Description: ['5', 'Vites']
+Year: 1991
+Price: 27.000 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Dynamic']
+Year: 2011
+Price: 57.250 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Icon']
+Year: 2015
+Price: 76.500 TL
+******************************
+Page No: 7
+**************************************************
+Brand: Opel
+Model: Insignia
+Description: ['1.6', 'CDTI', 'Design']
+Year: 2016
+Price: 143.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Icon']
+Year: 2019
+Price: 198.900 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'E', '250', 'CGI', 'AMG']
+Year: 2012
+Price: 350.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Comfortline']
+Year: 2016
+Price: 111.750 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.4', 'T', 'Sport']
+Year: 2013
+Price: 119.750 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Easy']
+Year: 2012
+Price: 58.500 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.8', 'Hybrid', 'Flame', 'X-Pack']
+Year: 2020
+Price: 224.500 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Touch', 'Plus']
+Year: 2015
+Price: 96.000 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.4', 'D-4D', 'Comfort', 'Extra']
+Year: 2012
+Price: 82.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Joy']
+Year: 2015
+Price: 80.000 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.6', 'Advance']
+Year: 2016
+Price: 128.000 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'ECO', 'Elegance']
+Year: 2012
+Price: 126.000 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'E', '250', 'D']
+Year: 1989
+Price: 41.500 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Trend', 'X']
+Year: 2016
+Price: 113.500 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2016
+Price: 192.000 TL
+******************************
+Brand: Ford
+Model: Mondeo
+Description: ['2.0', 'TDCi', 'Titanium']
+Year: 2012
+Price: 85.750 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.6', 'Extreme']
+Year: 2011
+Price: 53.000 TL
+******************************
+Brand: Subaru
+Model: Vivio
+Description: ['GL']
+Year: 1997
+Price: 21.500 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.4', 'TSi', 'Highline']
+Year: 2015
+Price: 159.000 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'ES']
+Year: 2005
+Price: 67.000 TL
+******************************
+Page No: 8
+**************************************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Icon']
+Year: 2015
+Price: 110.000 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2015
+Price: 101.990 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.3', 'Multijet', 'Easy']
+Year: 2016
+Price: 84.900 TL
+******************************
+Brand: Toyota
+Model: Auris
+Description: ['1.4', 'D-4D', 'Comfort', 'Extra']
+Year: 2012
+Price: 104.900 TL
+******************************
+Brand: Chevrolet
+Model: Cruze
+Description: ['1.6', 'Sport', 'Plus']
+Year: 2013
+Price: 105.950 TL
+******************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '520i', 'M', 'Sport']
+Year: 2015
+Price: 279.950 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '180', 'BlueEFFICIENCY', 'Avantgarde']
+Year: 2011
+Price: 143.750 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Active', 'Plus']
+Year: 2013
+Price: 58.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Icon']
+Year: 2016
+Price: 93.250 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.4', 'Fire', 'Pop']
+Year: 2017
+Price: 62.750 TL
+******************************
+Brand: Audi
+Model: A6
+Description: ['Sedan', '3.0', 'TDI', 'Quattro']
+Year: 2010
+Price: 138.500 TL
+******************************
+Brand: Seat
+Model: Leon
+Description: ['1.6', 'TDI', 'CR', 'Style']
+Year: 2013
+Price: 129.750 TL
+******************************
+Brand: Seat
+Model: Leon
+Description: ['1.6', 'TDI', 'Copa', 'Plus']
+Year: 2012
+Price: 94.900 TL
+******************************
+Brand: Fiat
+Model: Albea
+Description: ['Sole', '1.3', 'Multijet', 'Dynamic', 'Plus']
+Year: 2012
+Price: 28.500 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'TDi', 'Highline']
+Year: 2013
+Price: 114.250 TL
+******************************
+Brand: Skoda
+Model: Octavia
+Description: ['1.6', 'TDI', 'Style', 'CR']
+Year: 2015
+Price: 142.750 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2016
+Price: 186.000 TL
+******************************
+Brand: Skoda
+Model: SuperB
+Description: ['1.6', 'TDI', 'Prestige']
+Year: 2017
+Price: 217.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2014
+Price: 76.750 TL
+******************************
+Brand: Peugeot
+Model: 207
+Description: ['1.6', 'VTi', 'Dynamic']
+Year: 2007
+Price: 69.000 TL
+******************************
+
+Page No: 9
+**************************************************
+Brand: Skoda
+Model: Octavia
+Description: ['1.6', 'TDI', 'Style']
+Year: 2015
+Price: 141.900 TL
+******************************
+Brand: Toyota
+Model: Auris
+Description: ['1.6', 'Premium']
+Year: 2013
+Price: 117.900 TL
+******************************
+Brand: Chrysler
+Model: 300
+Description: ['C', '3.0', 'CRD']
+Year: 2007
+Price: 112.900 TL
+******************************
+Brand: Seat
+Model: Leon
+Description: ['1.6', 'TDI', 'CR', 'Style']
+Year: 2013
+Price: 129.000 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.3', 'Multijet', 'Easy']
+Year: 2017
+Price: 90.000 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'E', '180', 'Edition']
+Year: 2015
+Price: 297.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.0', 'SCe', 'Joy']
+Year: 2020
+Price: 119.900 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.6', 'Multijet', 'Lounge']
+Year: 2016
+Price: 99.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.6', 'TDi', 'Comfortline']
+Year: 2012
+Price: 86.750 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'TDi', 'Trendline']
+Year: 2015
+Price: 122.750 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'Dream']
+Year: 2011
+Price: 85.900 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.2', 'D-CVVT', 'Jump']
+Year: 2012
+Price: 51.500 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Comfort']
+Year: 2003
+Price: 34.200 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Authentique']
+Year: 2011
+Price: 41.750 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'Primeline']
+Year: 2007
+Price: 61.750 TL
+******************************
+Brand: Citroen
+Model: C4
+Description: ['Picasso', '1.6', 'HDi', 'SX', 'PK']
+Year: 2009
+Price: 59.750 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2012
+Price: 125.750 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Trendline']
+Year: 2014
+Price: 83.750 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Comfortline']
+Year: 2015
+Price: 89.750 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'TDi', 'Comfortline']
+Year: 2014
+Price: 128.750 TL
+******************************
+Page No: 10
+**************************************************
+Brand: Kia
+Model: Ceed
+Description: ['1.6', 'CRDi', 'Concept', 'Plus']
+Year: 2016
+Price: 129.500 TL
+******************************
+Brand: Nissan
+Model: Micra
+Description: ['1.2', 'Match']
+Year: 2017
+Price: 102.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2015
+Price: 187.500 TL
+******************************
+Brand: Nissan
+Model: Micra
+Description: ['1.2', 'Tekna']
+Year: 2011
+Price: 74.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.6', 'Dynamique']
+Year: 2004
+Price: 52.000 TL
+******************************
+Brand: Peugeot
+Model: 308
+Description: ['1.6', 'HDi', 'Access']
+Year: 2012
+Price: 69.000 TL
+******************************
+Brand: Honda
+Model: Jazz
+Description: ['1.4', 'Fun']
+Year: 2009
+Price: 90.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2018
+Price: 87.500 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Business']
+Year: 2011
+Price: 67.500 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Pop']
+Year: 2014
+Price: 67.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.4', 'Expression']
+Year: 2009
+Price: 54.900 TL
+******************************
+Brand: Fiat
+Model: 500
+Description: ['Ailesi', '500L', '1.3', 'Mjet', 'RockStar']
+Year: 2014
+Price: 116.900 TL
+******************************
+Brand: Audi
+Model: A5
+Description: ['Sportback', '2.0', 'TDI']
+Year: 2015
+Price: 280.000 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '200', 'd', 'BlueTEC', 'AMG']
+Year: 2018
+Price: 358.000 TL
+******************************
+Brand: Fiat
+Model: Albea
+Description: ['Sole', '1.3', 'Multijet', 'Premio', 'Plus']
+Year: 2012
+Price: 35.000 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sportback', '1.4', 'TFSI', 'Attraction']
+Year: 2008
+Price: 80.500 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.5', 'TDCi', 'Trend', 'X']
+Year: 2016
+Price: 130.750 TL
+******************************
+Brand: Kia
+Model: Ceed
+Description: ['1.6', 'CRDi', 'Concept', 'Plus']
+Year: 2015
+Price: 132.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Comfortline']
+Year: 2016
+Price: 107.950 TL
+******************************
+Brand: Toyota
+Model: Yaris
+Description: ['1.33', 'Sol']
+Year: 2010
+Price: 62.900 TL
+******************************
+Page No: 11
+**************************************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Authentique']
+Year: 2010
+Price: 32.750 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.6', 'XLi']
+Year: 1995
+Price: 28.500 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['2.0', 'TDi', 'Comfortline']
+Year: 2007
+Price: 67.999 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'Enjoy', 'Plus']
+Year: 2010
+Price: 76.900 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Trend']
+Year: 2010
+Price: 60.000 TL
+******************************
+Brand: Chevrolet
+Model: Lacetti
+Description: ['1.6', 'SX']
+Year: 2007
+Price: 30.000 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Era', '1.5', 'CRDi', 'Select']
+Year: 2011
+Price: 49.900 TL
+******************************
+Brand: Dacia
+Model: Sandero
+Description: ['1.5', 'dCi', 'Black', 'Line']
+Year: 2012
+Price: 57.500 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sportback', '1.6', 'Attraction']
+Year: 2005
+Price: 68.750 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'Comfortline']
+Year: 2010
+Price: 95.900 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'E', '200', 'Kompressor', 'Avantgarde']
+Year: 2004
+Price: 174.900 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['2.0', 'TDi', 'BlueMotion', 'Highline']
+Year: 2012
+Price: 133.500 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.4', 'T', 'Dynamic']
+Year: 2016
+Price: 129.750 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Icon']
+Year: 2016
+Price: 114.500 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2017
+Price: 84.000 TL
+******************************
+Brand: Hyundai
+Model: Getz
+Description: ['1.3', 'GLS']
+Year: 2005
+Price: 36.500 TL
+******************************
+Brand: Tofaş
+Model: Şahin
+Description: ['1.6']
+Year: 1994
+Price: 14.750 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.6']
+Year: 1998
+Price: 34.750 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'Premium']
+Year: 2014
+Price: 116.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'GL']
+Year: 1998
+Price: 38.500 TL
+******************************
+Page No: 12
+**************************************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.6', 'HDi', 'Attraction']
+Year: 2016
+Price: 75.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'CD']
+Year: 1999
+Price: 41.500 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.2', 'Swing']
+Year: 2000
+Price: 31.000 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '200', 'Kompressor', 'Elegance']
+Year: 2003
+Price: 75.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Icon']
+Year: 2018
+Price: 181.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Extreme']
+Year: 2009
+Price: 47.000 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'E', '250', 'CDI', 'Elite', 'Avantgarde']
+Year: 2012
+Price: 310.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.4', 'TSi', 'BlueMotion', 'Highline']
+Year: 2012
+Price: 114.500 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.3', 'Multijet', 'Easy', 'Plus']
+Year: 2018
+Price: 105.000 TL
+******************************
+Brand: Tofaş
+Model: Şahin
+Description: ['5', 'Vites']
+Year: 1992
+Price: 25.000 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Icon']
+Year: 2016
+Price: 116.250 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.0', 'SCe', 'Joy']
+Year: 2020
+Price: 115.250 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.0', 'SCe', 'Joy']
+Year: 2020
+Price: 116.250 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.4', 'Fire', 'Easy']
+Year: 2018
+Price: 83.750 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.6', 'Joy']
+Year: 2017
+Price: 115.000 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Icon']
+Year: 2015
+Price: 97.250 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Business']
+Year: 2012
+Price: 67.900 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Extreme']
+Year: 2008
+Price: 47.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'SportTourer', 'Joy']
+Year: 2017
+Price: 91.750 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.6', 'Extreme']
+Year: 2010
+Price: 71.950 TL
+******************************
+
+Page No: 13
+**************************************************
+Brand: Peugeot
+Model: 207
+Description: ['1.4', 'Envy']
+Year: 2011
+Price: 79.000 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.4', 'Fire', 'Easy']
+Year: 2019
+Price: 94.000 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'ECO', 'Elegance']
+Year: 2012
+Price: 117.000 TL
+******************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.6', 'HDi', 'Attraction']
+Year: 2015
+Price: 75.500 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.6', 'E-Torq', 'Lounge', 'Plus']
+Year: 2017
+Price: 121.000 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'TDi', 'Comfortline']
+Year: 2013
+Price: 117.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2013
+Price: 69.750 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.4', 'D-4D', 'Advance']
+Year: 2014
+Price: 105.500 TL
+******************************
+Brand: Peugeot
+Model: 207
+Description: ['1.4', 'Envy']
+Year: 2010
+Price: 77.950 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Exclusive']
+Year: 2013
+Price: 155.500 TL
+******************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '530d', 'M', 'Sport']
+Year: 2011
+Price: 260.000 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.2', 'TSi', 'Comfortline']
+Year: 2015
+Price: 139.950 TL
+******************************
+Brand: Chevrolet
+Model: Lacetti
+Description: ['1.4', 'SE']
+Year: 2009
+Price: 56.500 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Impression']
+Year: 2019
+Price: 270.000 TL
+******************************
+Brand: Ford
+Model: Mondeo
+Description: ['2.0', 'TDCi', 'Trend']
+Year: 2009
+Price: 75.250 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.2', 'D-CVVT', 'Sense']
+Year: 2013
+Price: 73.500 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.2', 'Trendline']
+Year: 2011
+Price: 72.000 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'Collection']
+Year: 2011
+Price: 78.000 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Titanium']
+Year: 2013
+Price: 118.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2016
+Price: 72.000 TL
+******************************
+Page No: 14
+**************************************************
+Brand: Toyota
+Model: Auris
+Description: ['1.33', 'Life']
+Year: 2015
+Price: 90.000 TL
+******************************
+Brand: Opel
+Model: Vectra
+Description: ['1.8', 'GL']
+Year: 1993
+Price: 22.000 TL
+******************************
+Brand: Fiat
+Model: Tempra
+Description: ['1.6', 'SX', 'A']
+Year: 1994
+Price: 19.500 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'Elegance']
+Year: 2008
+Price: 101.000 TL
+******************************
+Brand: Volvo
+Model: S40
+Description: ['1.6']
+Year: 2004
+Price: 62.000 TL
+******************************
+Brand: Peugeot
+Model: 308
+Description: ['1.6', 'e-HDi', 'Classic', 'Edition', 'Plus']
+Year: 2016
+Price: 136.500 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'Essentia', 'Konfor']
+Year: 2013
+Price: 86.250 TL
+******************************
+Brand: Fiat
+Model: Bravo
+Description: ['1.4', 'Active', 'Plus']
+Year: 2011
+Price: 54.750 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.0', 'Trendline']
+Year: 2017
+Price: 83.500 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'CDTI', 'Elite']
+Year: 2016
+Price: 132.900 TL
+******************************
+Brand: Mazda
+Model: 3
+Description: ['1.5', 'SkyActive-G', 'Power']
+Year: 2018
+Price: 169.900 TL
+******************************
+Brand: Toyota
+Model: Yaris
+Description: ['1.3', 'Sol']
+Year: 2008
+Price: 69.000 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.2', 'D-CVVT', 'Jump']
+Year: 2013
+Price: 68.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'Comfortline']
+Year: 2010
+Price: 68.500 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.33', 'Life']
+Year: 2017
+Price: 100.000 TL
+******************************
+Brand: Ford
+Model: C-Max
+Description: ['1.6', 'TDCi', 'Titanium', 'X']
+Year: 2012
+Price: 113.750 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.2', 'TSi', 'Comfortline']
+Year: 2014
+Price: 79.750 TL
+******************************
+Brand: Dacia
+Model: Sandero
+Description: ['1.5', 'dCi', 'Stepway']
+Year: 2017
+Price: 96.750 TL
+******************************
+Brand: Dacia
+Model: Sandero
+Description: ['1.5', 'dCi', 'Stepway']
+Year: 2017
+Price: 97.000 TL
+******************************
+Brand: Renault
+Model: Latitude
+Description: ['1.5', 'dCi', 'Executive']
+Year: 2012
+Price: 106.900 TL
+******************************
+Page No: 15
+**************************************************
+Brand: Toyota
+Model: Yaris
+Description: ['1.33', 'Fun', 'Special', 'Skypack']
+Year: 2014
+Price: 99.750 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.4', 'Authentique']
+Year: 2005
+Price: 39.750 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.33', 'Life']
+Year: 2013
+Price: 92.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Icon']
+Year: 2018
+Price: 96.750 TL
+******************************
+Brand: Peugeot
+Model: 206
+Description: ['1.4', 'HDi', 'Fever']
+Year: 2007
+Price: 35.250 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Privilege']
+Year: 2007
+Price: 56.500 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Trend', 'X']
+Year: 2014
+Price: 115.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'Highline']
+Year: 2001
+Price: 36.500 TL
+******************************
+Brand: Chevrolet
+Model: Cruze
+Description: ['1.6', 'LS']
+Year: 2010
+Price: 61.500 TL
+******************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.6', 'BlueHDi', 'Live']
+Year: 2018
+Price: 84.900 TL
+******************************
+Brand: Hyundai
+Model: i30
+Description: ['1.6', 'CRDi', 'Mode']
+Year: 2010
+Price: 76.500 TL
+******************************
+Brand: Toyota
+Model: Auris
+Description: ['1.33', 'Comfort']
+Year: 2013
+Price: 68.500 TL
+******************************
+Brand: Hyundai
+Model: Getz
+Description: ['1.4', 'DOHC', 'Start']
+Year: 2011
+Price: 61.500 TL
+******************************
+Brand: Daihatsu
+Model: Sirion
+Description: ['1.3', 'Sporty']
+Year: 2005
+Price: 39.000 TL
+******************************
+Brand: Citroen
+Model: C2
+Description: ['1.4', 'HDi', 'SX']
+Year: 2005
+Price: 37.000 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Titanium']
+Year: 2010
+Price: 56.750 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.2', 'TSi', 'Comfortline']
+Year: 2014
+Price: 88.000 TL
+******************************
+Brand: Fiat
+Model: Punto
+Description: ['Grande', '1.4', 'Fire', 'Dynamic']
+Year: 2006
+Price: 36.500 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Collection']
+Year: 2007
+Price: 61.250 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Dynamic', 'Plus']
+Year: 2010
+Price: 56.250 TL
+******************************
+Page No: 16
+**************************************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', '200', 'E']
+Year: 1993
+Price: 43.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Joy']
+Year: 2014
+Price: 71.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Impression']
+Year: 2019
+Price: 245.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['2.0', 'RXE']
+Year: 1999
+Price: 28.000 TL
+******************************
+Brand: Renault
+Model: R
+Description: ['19', '1.6', 'Europa', 'RT']
+Year: 1995
+Price: 21.000 TL
+******************************
+Brand: Tofaş
+Model: Doğan
+Description: ['SLX']
+Year: 1993
+Price: 20.500 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2017
+Price: 77.000 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.5', 'TDCi', 'Trend', 'X']
+Year: 2015
+Price: 90.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'Edition', 'Plus']
+Year: 2016
+Price: 114.900 TL
+******************************
+Brand: Seat
+Model: Leon
+Description: ['1.6', 'TDI', 'Style']
+Year: 2016
+Price: 152.900 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'Comfortline']
+Year: 2007
+Price: 85.500 TL
+******************************
+Brand: Ford
+Model: Ka
+Description: ['1.3', 'Collection']
+Year: 2002
+Price: 29.950 TL
+******************************
+Brand: Citroen
+Model: C3
+Description: ['Picasso', '1.6', 'HDi', 'SX']
+Year: 2010
+Price: 63.000 TL
+******************************
+Brand: Audi
+Model: A4
+Description: ['Sedan', '2.0', 'TDI', 'Quattro', 'Dynamic']
+Year: 2016
+Price: 275.000 TL
+******************************
+Brand: Tofaş
+Model: Şahin
+Description: ['S']
+Year: 1997
+Price: 21.500 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Essentia']
+Year: 2004
+Price: 41.900 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'ECO', 'Elegance']
+Year: 2016
+Price: 150.000 TL
+******************************
+Brand: Fiat
+Model: Panda
+Description: ['1.2', 'Active']
+Year: 2012
+Price: 39.500 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Dynamique']
+Year: 2011
+Price: 77.500 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'Enjoy', 'Plus']
+Year: 2010
+Price: 81.000 TL
+******************************
+
+Page No: 17
+**************************************************
+Brand: Tofaş
+Model: Doğan
+Description: ['SLX']
+Year: 1993
+Price: 18.750 TL
+******************************
+Brand: Kia
+Model: Rio
+Description: ['1.4', 'CRDi', 'Natty']
+Year: 2014
+Price: 73.500 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'Comfortline']
+Year: 2000
+Price: 62.000 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.6', 'Life']
+Year: 2018
+Price: 128.000 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2015
+Price: 150.500 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Urban']
+Year: 2013
+Price: 64.500 TL
+******************************
+Brand: Seat
+Model: Leon
+Description: ['1.6', 'Spirit']
+Year: 2004
+Price: 37.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Active']
+Year: 2013
+Price: 62.000 TL
+******************************
+Brand: Chevrolet
+Model: Kalos
+Description: ['1.2', 'SE']
+Year: 2005
+Price: 34.000 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i', 'ES']
+Year: 1999
+Price: 55.000 TL
+******************************
+Brand: Fiat
+Model: Siena
+Description: ['1.6', 'HL']
+Year: 1999
+Price: 21.500 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'A', '170', 'CDI', 'Classic']
+Year: 2001
+Price: 65.750 TL
+******************************
+Brand: Peugeot
+Model: 301
+Description: ['1.6', 'HDi', 'Allure']
+Year: 2013
+Price: 70.250 TL
+******************************
+Brand: Geely
+Model: Emgrand
+Description: ['1.5', 'GSL', 'Premium']
+Year: 2011
+Price: 55.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Enjoy']
+Year: 2008
+Price: 63.500 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Mode', 'Plus']
+Year: 2018
+Price: 132.000 TL
+******************************
+Brand: Fiat
+Model: Tipo
+Description: ['1.6', 'SX']
+Year: 1998
+Price: 20.000 TL
+******************************
+Brand: Volkswagen
+Model: VW
+Description: ['CC', '1.4', 'TSi']
+Year: 2014
+Price: 142.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Authentique']
+Year: 2007
+Price: 38.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2016
+Price: 112.750 TL
+******************************
+Page No: 18
+**************************************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Authentique']
+Year: 2007
+Price: 38.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2016
+Price: 112.750 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2017
+Price: 71.500 TL
+******************************
+Brand: Skoda
+Model: Octavia
+Description: ['1.6', 'TDI', 'Optimal']
+Year: 2016
+Price: 114.500 TL
+******************************
+Brand: Fiat
+Model: Palio
+Description: ['1.4', 'EL', 'Weekend']
+Year: 2000
+Price: 28.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Enjoy']
+Year: 2007
+Price: 63.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2015
+Price: 82.000 TL
+******************************
+Brand: Tofaş
+Model: Şahin
+Description: ['S']
+Year: 1994
+Price: 15.000 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'ES']
+Year: 2005
+Price: 80.000 TL
+******************************
+Brand: BMW
+Model: 1
+Description: ['Serisi', '116d', 'ED', 'EfficientDynamics']
+Year: 2014
+Price: 143.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['2.0', 'Comfortline']
+Year: 2000
+Price: 49.000 TL
+******************************
+Brand: Seat
+Model: Ibiza
+Description: ['1.4', 'Reference']
+Year: 2015
+Price: 76.000 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.5', 'TDCi', 'Trend', 'X']
+Year: 2014
+Price: 85.750 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Extreme']
+Year: 2009
+Price: 51.750 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'ECO', 'Elegance']
+Year: 2018
+Price: 166.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.4', 'Enjoy']
+Year: 2005
+Price: 53.500 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'MPI', 'Style']
+Year: 2017
+Price: 113.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Joy']
+Year: 2013
+Price: 76.500 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.6', 'Joy']
+Year: 2017
+Price: 120.000 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Trend', 'X']
+Year: 2016
+Price: 116.500 TL
+******************************
+Page No: 19
+**************************************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.4', 'D-4D', 'Plusline']
+Year: 2007
+Price: 42.500 TL
+******************************
+Brand: Citroen
+Model: C4
+Description: ['1.6', 'HDi', 'SX', 'PK']
+Year: 2008
+Price: 49.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Authentique']
+Year: 2012
+Price: 34.000 TL
+******************************
+Brand: Dacia
+Model: Logan
+Description: ['1.4']
+Year: 2009
+Price: 32.750 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Titanium', 'X']
+Year: 2010
+Price: 74.250 TL
+******************************
+Brand: Tofaş
+Model: Doğan
+Description: ['L']
+Year: 1991
+Price: 24.000 TL
+******************************
+Brand: Renault
+Model: Twingo
+Description: ['1.2', 'Pack']
+Year: 1997
+Price: 21.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.4', 'TSi', 'Comfortline']
+Year: 2010
+Price: 120.000 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '180', 'Kompressor', 'BlueEfficiency', 'Fascination']
+Year: 2011
+Price: 130.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Essentia']
+Year: 2006
+Price: 43.500 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Trendline']
+Year: 2015
+Price: 84.500 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sportback', '1.2', 'TFSI', 'Attraction']
+Year: 2012
+Price: 119.500 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.6', 'E-Torq', 'Urban', 'Plus']
+Year: 2017
+Price: 115.900 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2016
+Price: 99.500 TL
+******************************
+Brand: Seat
+Model: Leon
+Description: ['1.0', 'EcoTSI', 'Ecomotive', 'Style']
+Year: 2018
+Price: 158.500 TL
+******************************
+Brand: Opel
+Model: Insignia
+Description: ['1.6', 'CDTI', 'Grand', 'Sport', 'Excellence']
+Year: 2017
+Price: 187.900 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'CDTI', 'Dynamic']
+Year: 2018
+Price: 146.000 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '180', 'AMG', '9G-Tronic']
+Year: 2018
+Price: 445.900 TL
+******************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '520d', 'Exclusive']
+Year: 2011
+Price: 214.900 TL
+******************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '520i', 'Executive', 'M', 'Sport']
+Year: 2015
+Price: 278.900 TL
+******************************
+Page No: 20
+**************************************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '520d', 'Exclusive']
+Year: 2011
+Price: 214.900 TL
+******************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '520i', 'Executive', 'M', 'Sport']
+Year: 2015
+Price: 278.900 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Essentia']
+Year: 2006
+Price: 43.500 TL
+******************************
+Brand: Chevrolet
+Model: Lacetti
+Description: ['1.6', 'WTCC']
+Year: 2011
+Price: 55.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['2.0', 'Comfortline']
+Year: 2006
+Price: 86.500 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.4', 'Design']
+Year: 2017
+Price: 102.900 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'Edition']
+Year: 2012
+Price: 89.900 TL
+******************************
+Brand: Seat
+Model: Leon
+Description: ['1.6', 'TDI', 'Style']
+Year: 2018
+Price: 162.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Active']
+Year: 2013
+Price: 58.500 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2017
+Price: 99.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2018
+Price: 151.900 TL
+******************************
+Brand: Peugeot
+Model: 301
+Description: ['1.6', 'HDi', 'Active']
+Year: 2016
+Price: 76.500 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.3', 'Multijet', 'Easy']
+Year: 2016
+Price: 87.000 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.3', 'Multijet', 'Easy']
+Year: 2017
+Price: 94.000 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '318i', 'M', 'Plus']
+Year: 2017
+Price: 269.000 TL
+******************************
+Brand: Skoda
+Model: Fabia
+Description: ['1.2', 'TSI', 'Style']
+Year: 2016
+Price: 128.500 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Privilege']
+Year: 2010
+Price: 90.000 TL
+******************************
+Brand: Opel
+Model: Vectra
+Description: ['2.2', 'Cosmo']
+Year: 2004
+Price: 48.500 TL
+******************************
+Brand: Hyundai
+Model: Getz
+Description: ['1.5', 'CRDi', 'Active']
+Year: 2008
+Price: 42.500 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.2', 'TSi', 'Comfortline']
+Year: 2013
+Price: 100.000 TL
+******************************
+
+Page No: 21
+**************************************************
+Brand: Skoda
+Model: SuperB
+Description: ['1.6', 'TDI', 'Comfort']
+Year: 2017
+Price: 187.000 TL
+******************************
+Brand: Seat
+Model: Ibiza
+Description: ['1.0', 'EcoTSI', 'Style']
+Year: 2017
+Price: 106.900 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2016
+Price: 88.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2017
+Price: 136.000 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '318i', 'Edition', 'M', 'Sport']
+Year: 2017
+Price: 270.000 TL
+******************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.6', 'HDi', 'Attraction']
+Year: 2013
+Price: 62.500 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2017
+Price: 171.000 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Mode']
+Year: 2016
+Price: 111.500 TL
+******************************
+Brand: Kia
+Model: Ceed
+Description: ['1.6', 'CRDi', 'Concept', 'Plus']
+Year: 2016
+Price: 145.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'CDTI', 'Dynamic', 'Elite']
+Year: 2016
+Price: 129.500 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sportback', '1.6', 'Ambition']
+Year: 2007
+Price: 73.500 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.4', 'TSi', 'Trendline']
+Year: 2015
+Price: 125.000 TL
+******************************
+Brand: Peugeot
+Model: 301
+Description: ['1.6', 'HDi', 'Active']
+Year: 2016
+Price: 71.950 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2017
+Price: 84.500 TL
+******************************
+Brand: Tofaş
+Model: Doğan
+Description: ['SLX']
+Year: 1994
+Price: 15.850 TL
+******************************
+Brand: Audi
+Model: A5
+Description: ['Coupe', '1.4', 'TFSI', 'Design']
+Year: 2017
+Price: 369.950 TL
+******************************
+Brand: Ford
+Model: Galaxy
+Description: ['2.0', 'TDCI', 'Titanium']
+Year: 2010
+Price: 129.750 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.4', 'CVVT', 'Mode']
+Year: 2013
+Price: 85.000 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'TDi', 'Trendline']
+Year: 2015
+Price: 118.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'Comfortline']
+Year: 2007
+Price: 88.500 TL
+******************************
+Page No: 22
+**************************************************
+Brand: Fiat
+Model: Marea
+Description: ['1.6', 'ELX']
+Year: 2003
+Price: 26.900 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320d', 'Comfort']
+Year: 2011
+Price: 135.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Icon']
+Year: 2015
+Price: 102.000 TL
+******************************
+Brand: Skoda
+Model: Rapid
+Description: ['1.2', 'TSI', 'Spaceback', 'Elegance']
+Year: 2014
+Price: 87.500 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.2', 'Twinport', 'Essentia']
+Year: 2005
+Price: 43.500 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.3', 'XE']
+Year: 1996
+Price: 28.500 TL
+******************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.6', 'HDi', 'Exclusive']
+Year: 2013
+Price: 72.000 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Titanium']
+Year: 2015
+Price: 155.000 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Comfort']
+Year: 2007
+Price: 53.000 TL
+******************************
+Brand: Ford
+Model: Scorpio
+Description: ['2.3', 'Ghia']
+Year: 1997
+Price: 19.500 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320d', 'Sport', 'Line']
+Year: 2013
+Price: 225.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.6']
+Year: 2000
+Price: 26.900 TL
+******************************
+Brand: DS
+Model: Automobiles
+Description: ['DS4', '1.6', 'e-HDi', 'D-Sport']
+Year: 2012
+Price: 95.500 TL
+******************************
+Brand: Skoda
+Model: Rapid
+Description: ['1.2', 'TSI', 'Spaceback', 'Elegance']
+Year: 2014
+Price: 91.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2016
+Price: 75.000 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['1.3', '1.3i']
+Year: 2000
+Price: 23.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.4', 'Club']
+Year: 2003
+Price: 41.250 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'Comfort']
+Year: 2002
+Price: 37.250 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.4', 'TSi', 'Trendline']
+Year: 2011
+Price: 95.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Enjoy']
+Year: 2007
+Price: 61.500 TL
+******************************
+Page No: 23
+**************************************************
+Brand: Skoda
+Model: Octavia
+Description: ['1.6', 'TDI', 'Optimal']
+Year: 2015
+Price: 131.750 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Privilege']
+Year: 2010
+Price: 71.500 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Comfortline']
+Year: 2016
+Price: 112.000 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Comfort']
+Year: 2007
+Price: 37.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'Comfortline']
+Year: 2006
+Price: 87.900 TL
+******************************
+Brand: Peugeot
+Model: 106
+Description: ['XT']
+Year: 1996
+Price: 18.750 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Icon']
+Year: 2014
+Price: 92.750 TL
+******************************
+Brand: Nissan
+Model: Almera
+Description: ['1.5', 'Tekna']
+Year: 2005
+Price: 33.750 TL
+******************************
+Brand: Peugeot
+Model: 207
+Description: ['1.4', 'HDi', 'Trendy']
+Year: 2008
+Price: 46.000 TL
+******************************
+Brand: Citroen
+Model: C3
+Description: ['1.4', 'HDi', 'SX']
+Year: 2005
+Price: 34.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.4', 'Authentique']
+Year: 2008
+Price: 35.750 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.33', 'Life']
+Year: 2016
+Price: 102.500 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Era', '1.4', 'Team']
+Year: 2010
+Price: 62.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.4', 'Twinport', 'Enjoy']
+Year: 2013
+Price: 83.500 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'TDi', 'Comfortline']
+Year: 2014
+Price: 145.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.6', 'Sportway']
+Year: 2005
+Price: 52.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Icon']
+Year: 2014
+Price: 88.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2015
+Price: 195.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'Edition', 'Plus']
+Year: 2017
+Price: 109.000 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'MPI', 'Elite']
+Year: 2017
+Price: 127.000 TL
+******************************
+Page No: 24
+**************************************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.33', 'Life']
+Year: 2016
+Price: 102.000 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.5', 'TDCi', 'Trend']
+Year: 2014
+Price: 82.000 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'Trend']
+Year: 2008
+Price: 72.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Comfortline']
+Year: 2016
+Price: 116.500 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Trend', 'X']
+Year: 2013
+Price: 112.500 TL
+******************************
+Brand: Dacia
+Model: Logan
+Description: ['1.5', 'dCi', 'Ambiance']
+Year: 2011
+Price: 29.500 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.8', 'Basic']
+Year: 1999
+Price: 41.500 TL
+******************************
+Brand: Peugeot
+Model: 206
+Description: ['1.4', 'X-Line']
+Year: 2005
+Price: 27.500 TL
+******************************
+Brand: Opel
+Model: Insignia
+Description: ['1.4', 'T', 'Edition']
+Year: 2012
+Price: 98.000 TL
+******************************
+Brand: Opel
+Model: Vectra
+Description: ['2.0', 'CD']
+Year: 1998
+Price: 32.000 TL
+******************************
+Brand: Chevrolet
+Model: Cruze
+Description: ['1.6', 'LS']
+Year: 2010
+Price: 48.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'SportTourer', 'Icon']
+Year: 2014
+Price: 75.000 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2014
+Price: 135.000 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Titanium', 'X']
+Year: 2012
+Price: 68.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'SportTourer', 'Joy']
+Year: 2014
+Price: 69.500 TL
+******************************
+Brand: Fiat
+Model: Punto
+Description: ['1.3', 'Multijet', 'Lounge']
+Year: 2012
+Price: 80.750 TL
+******************************
+Brand: Renault
+Model: R
+Description: ['19', '1.4', 'Europa', 'RN']
+Year: 1996
+Price: 16.750 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'Enjoy', 'Plus']
+Year: 2012
+Price: 55.000 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Trend']
+Year: 2006
+Price: 44.500 TL
+******************************
+Brand: Chevrolet
+Model: Cruze
+Description: ['1.6', 'WTCC', 'Edition']
+Year: 2012
+Price: 74.000 TL
+******************************
+
+Page No: 25
+**************************************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Active', 'Plus']
+Year: 2013
+Price: 62.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2014
+Price: 170.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'Trendline']
+Year: 2005
+Price: 71.500 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Trendline']
+Year: 2014
+Price: 170.000 TL
+******************************
+Brand: Opel
+Model: Vectra
+Description: ['1.6', 'Comfort']
+Year: 2005
+Price: 50.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.8', 'T', 'Comfortline']
+Year: 2002
+Price: 48.750 TL
+******************************
+Brand: Skoda
+Model: Fabia
+Description: ['1.0', 'GreenTec', 'Ambition']
+Year: 2015
+Price: 89.999 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'Trend']
+Year: 2012
+Price: 82.500 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'Executive']
+Year: 2018
+Price: 175.000 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'Elegance']
+Year: 2017
+Price: 158.750 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Pop']
+Year: 2017
+Price: 78.500 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.6', 'Dynamique']
+Year: 2002
+Price: 49.000 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Touch', 'Plus']
+Year: 2013
+Price: 82.500 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Business']
+Year: 2019
+Price: 295.000 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.3', 'Multijet', 'Easy', 'Plus']
+Year: 2017
+Price: 93.000 TL
+******************************
+Brand: Mitsubishi
+Model: Lancer
+Description: ['1.6', 'Invite']
+Year: 2011
+Price: 64.000 TL
+******************************
+Brand: Kia
+Model: Pride
+Description: ['1.3', 'DLX']
+Year: 2001
+Price: 21.500 TL
+******************************
+Brand: Chevrolet
+Model: Cruze
+Description: ['1.6', 'LS', 'Plus']
+Year: 2011
+Price: 68.500 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.4', 'D-4D', 'Comfort', 'Extra']
+Year: 2011
+Price: 110.000 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Collection']
+Year: 2009
+Price: 63.000 TL
+******************************
+Page No: 26
+**************************************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '200', 'D', 'Comfort']
+Year: 2016
+Price: 252.000 TL
+******************************
+Brand: Volkswagen
+Model: New
+Description: ['Beetle', '1.4', 'TSi', 'Design']
+Year: 2013
+Price: 134.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.4', 'TSi', 'BlueMotion', 'Comfortline']
+Year: 2012
+Price: 141.000 TL
+******************************
+Brand: Fiat
+Model: Siena
+Description: ['1.2', 'S']
+Year: 2001
+Price: 27.000 TL
+******************************
+Brand: Fiat
+Model: Albea
+Description: ['Sole', '1.3', 'Multijet', 'Dynamic', 'Plus']
+Year: 2011
+Price: 41.500 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2017
+Price: 139.950 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2018
+Price: 148.950 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2018
+Price: 145.950 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Enjoy']
+Year: 2008
+Price: 46.500 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'Basicline']
+Year: 2004
+Price: 55.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Grandtour', 'Extreme']
+Year: 2011
+Price: 43.500 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320i', 'ED', '40th', 'Year', 'Edition']
+Year: 2016
+Price: 335.000 TL
+******************************
+Brand: Peugeot
+Model: 207
+Description: ['1.4', 'HDi', 'Trendy']
+Year: 2010
+Price: 42.500 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.7', 'DTi', 'Comfort']
+Year: 2003
+Price: 34.500 TL
+******************************
+Brand: Fiat
+Model: Punto
+Description: ['EVO', '1.3', 'Multijet', 'Dynamic']
+Year: 2011
+Price: 59.750 TL
+******************************
+Brand: Seat
+Model: Cordoba
+Description: ['1.4', 'Signo']
+Year: 2004
+Price: 45.000 TL
+******************************
+Brand: Hyundai
+Model: Getz
+Description: ['1.3', 'GLS']
+Year: 2003
+Price: 39.000 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320i', 'Premium']
+Year: 2005
+Price: 91.750 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'E', '200', 'Kompressor', 'Avantgarde']
+Year: 1998
+Price: 72.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Turbo', 'Icon']
+Year: 2016
+Price: 92.750 TL
+******************************
+Page No: 27
+**************************************************
+Brand: Opel
+Model: Corsa
+Description: ['1.7', 'DTi', 'Comfort']
+Year: 2003
+Price: 34.500 TL
+******************************
+Brand: Fiat
+Model: Punto
+Description: ['EVO', '1.3', 'Multijet', 'Dynamic']
+Year: 2011
+Price: 59.750 TL
+******************************
+Brand: Seat
+Model: Cordoba
+Description: ['1.4', 'Signo']
+Year: 2004
+Price: 45.000 TL
+******************************
+Brand: Hyundai
+Model: Getz
+Description: ['1.3', 'GLS']
+Year: 2003
+Price: 39.000 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320i', 'Premium']
+Year: 2005
+Price: 91.750 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'E', '200', 'Kompressor', 'Avantgarde']
+Year: 1998
+Price: 72.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Turbo', 'Icon']
+Year: 2016
+Price: 92.750 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['Active', '1.4', 'MPi', 'Elite']
+Year: 2017
+Price: 124.900 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'MPI', 'Style']
+Year: 2018
+Price: 133.900 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.6']
+Year: 1998
+Price: 37.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'SportTourer', 'Icon']
+Year: 2014
+Price: 84.500 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'ECO', 'Elegance']
+Year: 2019
+Price: 182.900 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sportback', '1.8', 'Attraction']
+Year: 2000
+Price: 35.950 TL
+******************************
+Brand: Dacia
+Model: Logan
+Description: ['1.4', 'Ambiance']
+Year: 2006
+Price: 34.000 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2015
+Price: 83.000 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2017
+Price: 172.750 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sedan', '1.6', 'TDI', 'Attraction']
+Year: 2015
+Price: 174.500 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.33', 'Life']
+Year: 2014
+Price: 98.000 TL
+******************************
+Brand: Tofaş
+Model: Murat
+Description: ['124']
+Year: 1976
+Price: 28.500 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.33', 'Comfort']
+Year: 2012
+Price: 65.500 TL
+******************************
+Page No: 28
+**************************************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'CRDi', 'Jump']
+Year: 2013
+Price: 46.750 TL
+******************************
+Brand: Tofaş
+Model: Doğan
+Description: ['L']
+Year: 1992
+Price: 12.500 TL
+******************************
+Brand: Volkswagen
+Model: Scirocco
+Description: ['1.4', 'TSi', 'Sportline']
+Year: 2012
+Price: 85.000 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Mode']
+Year: 2012
+Price: 79.500 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.4', 'Twinport', 'Active']
+Year: 2013
+Price: 83.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.6', 'TDi', 'Comfortline']
+Year: 2011
+Price: 87.000 TL
+******************************
+Brand: Skoda
+Model: Fabia
+Description: ['1.2', 'Ambiente']
+Year: 2011
+Price: 62.500 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['1.3', 'LS']
+Year: 2000
+Price: 29.000 TL
+******************************
+Brand: Skoda
+Model: Octavia
+Description: ['1.6', 'TDI', 'Optimal']
+Year: 2016
+Price: 139.250 TL
+******************************
+Brand: Mazda
+Model: 626
+Description: ['1.6']
+Year: 1990
+Price: 15.500 TL
+******************************
+Brand: Chevrolet
+Model: Cruze
+Description: ['1.6', 'LS']
+Year: 2010
+Price: 72.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.2', 'TSi', 'Lounge']
+Year: 2016
+Price: 114.900 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.33', 'Life']
+Year: 2015
+Price: 96.750 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Comfort']
+Year: 2005
+Price: 41.500 TL
+******************************
+Brand: Peugeot
+Model: 206
+Description: ['1.4', 'X-Line']
+Year: 2005
+Price: 41.500 TL
+******************************
+Brand: Citroen
+Model: Saxo
+Description: ['1.5D', 'SX']
+Year: 2000
+Price: 18.900 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.4', 'D-4D', 'Advance']
+Year: 2013
+Price: 126.000 TL
+******************************
+Brand: Fiat
+Model: Tipo
+Description: ['1.6', 'SX']
+Year: 1995
+Price: 25.000 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Trend', 'X']
+Year: 2015
+Price: 108.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Essentia']
+Year: 2007
+Price: 53.000 TL
+******************************
+
+Page No: 29
+**************************************************
+Brand: Citroen
+Model: C4
+Description: ['1.6', 'HDi', 'Exclusive']
+Year: 2014
+Price: 69.000 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320d', 'M', 'Sport']
+Year: 2011
+Price: 153.000 TL
+******************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.6', 'HDi', 'Feel']
+Year: 2017
+Price: 74.900 TL
+******************************
+Brand: Tofaş
+Model: Doğan
+Description: ['SLX']
+Year: 1997
+Price: 13.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'GLS']
+Year: 1997
+Price: 25.500 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.6', 'Dream']
+Year: 2019
+Price: 161.500 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2016
+Price: 135.000 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['1.5', '1.5i', 'GLS']
+Year: 1999
+Price: 26.500 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.6', 'Joy']
+Year: 2013
+Price: 89.000 TL
+******************************
+Brand: Citroen
+Model: C4
+Description: ['Grand', 'Picasso', '1.6', 'HDi', 'SXPK']
+Year: 2008
+Price: 68.900 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.3', 'Multijet', 'Easy']
+Year: 2016
+Price: 86.000 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Mode', 'Plus']
+Year: 2016
+Price: 98.000 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sportback', '1.4', 'TFSI', 'Attraction']
+Year: 2012
+Price: 133.000 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.25', 'Trend']
+Year: 2011
+Price: 55.500 TL
+******************************
+Brand: Renault
+Model: R
+Description: ['9', '1.4', 'Spring']
+Year: 1994
+Price: 13.500 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'MPI', 'Jump']
+Year: 2016
+Price: 104.750 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Essentia']
+Year: 2012
+Price: 55.250 TL
+******************************
+Brand: Peugeot
+Model: 508
+Description: ['2.0', 'HDi', 'Allure']
+Year: 2012
+Price: 103.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Authentique']
+Year: 2008
+Price: 56.750 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Business']
+Year: 2012
+Price: 61.500 TL
+******************************
+Page No: 30
+**************************************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Business']
+Year: 2012
+Price: 61.500 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Comfortline']
+Year: 2015
+Price: 98.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.4', 'Start']
+Year: 2017
+Price: 156.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'CDTI', 'Sport']
+Year: 2016
+Price: 123.000 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Mode', 'Plus']
+Year: 2014
+Price: 103.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2015
+Price: 76.950 TL
+******************************
+Brand: Fiat
+Model: Punto
+Description: ['EVO', '1.4', 'Fire', 'Dynamic']
+Year: 2011
+Price: 57.000 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'MPI', 'Style']
+Year: 2018
+Price: 124.950 TL
+******************************
+Brand: Chevrolet
+Model: Cruze
+Description: ['1.6', 'LS']
+Year: 2010
+Price: 69.500 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.4', '1.4i']
+Year: 1998
+Price: 42.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Essentia']
+Year: 2011
+Price: 63.000 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2014
+Price: 88.000 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320i']
+Year: 1999
+Price: 72.000 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sedan', '1.6', 'TDI', 'Ambition']
+Year: 2015
+Price: 223.500 TL
+******************************
+Brand: BMW
+Model: 7
+Description: ['Serisi', '740d', 'xDrive', 'Exclusive']
+Year: 2011
+Price: 380.000 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.6', 'Terra']
+Year: 2005
+Price: 58.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2016
+Price: 102.500 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.4', 'Authentique']
+Year: 2011
+Price: 42.250 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Highline']
+Year: 2015
+Price: 195.000 TL
+******************************
+Brand: Ford
+Model: C-Max
+Description: ['1.6', 'TDCi', 'Titanium', 'X']
+Year: 2012
+Price: 113.900 TL
+******************************
+Page No: 31
+**************************************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '180', 'Kompressor', 'BlueEFFICIENCY', 'AMG']
+Year: 2010
+Price: 124.900 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.6', 'Multijet', 'Easy']
+Year: 2018
+Price: 114.500 TL
+******************************
+Brand: Fiat
+Model: Tempra
+Description: ['1.6', 'S']
+Year: 1994
+Price: 14.500 TL
+******************************
+Brand: Dacia
+Model: Sandero
+Description: ['1.0', 'Ambiance']
+Year: 2017
+Price: 69.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.0', 'Touch']
+Year: 2017
+Price: 78.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.0', 'Touch']
+Year: 2017
+Price: 78.000 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2012
+Price: 127.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.0', 'Touch']
+Year: 2017
+Price: 77.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.0', 'Touch']
+Year: 2017
+Price: 76.750 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Pop']
+Year: 2013
+Price: 61.750 TL
+******************************
+Brand: Tofaş
+Model: Doğan
+Description: ['SLX']
+Year: 1995
+Price: 21.500 TL
+******************************
+Brand: Renault
+Model: R
+Description: ['12', 'Toros']
+Year: 1990
+Price: 15.500 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.0', 'Touch']
+Year: 2017
+Price: 78.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.0', 'Touch']
+Year: 2017
+Price: 78.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.0', 'Touch']
+Year: 2017
+Price: 78.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.0', 'Touch']
+Year: 2017
+Price: 78.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.0', 'Touch']
+Year: 2017
+Price: 78.000 TL
+******************************
+Brand: Hyundai
+Model: Getz
+Description: ['1.3', 'GLS']
+Year: 2005
+Price: 45.750 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Mode', 'Plus']
+Year: 2017
+Price: 115.000 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Mode', 'Plus']
+Year: 2017
+Price: 114.000 TL
+******************************
+Page No: 32
+**************************************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Mode', 'Plus']
+Year: 2017
+Price: 114.000 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.6', 'Multijet', 'Easy', 'Plus']
+Year: 2018
+Price: 119.500 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'Elegance']
+Year: 2018
+Price: 163.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Expression']
+Year: 2011
+Price: 69.850 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Biz']
+Year: 2012
+Price: 95.500 TL
+******************************
+Brand: Fiat
+Model: Palio
+Description: ['1.4', 'RT']
+Year: 2001
+Price: 31.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2017
+Price: 126.000 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Prime']
+Year: 2017
+Price: 121.950 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'MPI', 'Elite']
+Year: 2017
+Price: 123.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2017
+Price: 85.500 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'Edition']
+Year: 2015
+Price: 97.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'SportTourer', 'Joy']
+Year: 2016
+Price: 82.900 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.6', 'Dynamique']
+Year: 2005
+Price: 38.900 TL
+******************************
+Brand: Fiat
+Model: Albea
+Description: ['Sole', '1.3', 'Multijet', 'Active', 'Plus']
+Year: 2011
+Price: 38.900 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'MPI', 'Style']
+Year: 2018
+Price: 114.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2016
+Price: 57.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Alize']
+Year: 2006
+Price: 40.500 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'Ghia']
+Year: 1999
+Price: 42.900 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', '190', 'E', '2.0']
+Year: 1991
+Price: 35.500 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.33', 'Life']
+Year: 2017
+Price: 105.000 TL
+******************************
+
+Page No: 33
+**************************************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'Dream']
+Year: 2009
+Price: 82.000 TL
+******************************
+Brand: Peugeot
+Model: 206+
+Description: ['1.4', 'HDi', 'Urban', 'Move']
+Year: 2012
+Price: 45.000 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.4', 'Fire', 'Easy', 'Plus']
+Year: 2018
+Price: 112.000 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Active', 'Plus']
+Year: 2011
+Price: 44.500 TL
+******************************
+Brand: Peugeot
+Model: 208
+Description: ['1.2', 'PureTech', 'Active']
+Year: 2015
+Price: 88.000 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2016
+Price: 91.900 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sedan', '1.6', 'TDI', 'Attraction']
+Year: 2016
+Price: 156.900 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sedan', '1.6', 'TDI', 'Attraction']
+Year: 2015
+Price: 157.900 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2016
+Price: 101.900 TL
+******************************
+Brand: Opel
+Model: Insignia
+Description: ['1.6', 'CDTI', 'Grand', 'Sport', 'Excellence']
+Year: 2017
+Price: 199.900 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Trend', 'X']
+Year: 2013
+Price: 72.500 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sedan', '1.6', 'TDI', 'Ambiente']
+Year: 2016
+Price: 165.900 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2017
+Price: 156.900 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sedan', '1.6', 'TDI', 'Attraction']
+Year: 2015
+Price: 159.900 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'FSi', 'Comfortline']
+Year: 2004
+Price: 52.900 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2017
+Price: 123.500 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Pop']
+Year: 2017
+Price: 71.900 TL
+******************************
+Brand: Peugeot
+Model: 208
+Description: ['1.2', 'PureTech', 'Access']
+Year: 2016
+Price: 88.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Comfortline']
+Year: 2017
+Price: 129.500 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.4', 'Expression']
+Year: 2011
+Price: 62.500 TL
+******************************
+Page No: 34
+**************************************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'Ti-VCT', 'Trend']
+Year: 2012
+Price: 90.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Highline']
+Year: 2015
+Price: 208.000 TL
+******************************
+Brand: Peugeot
+Model: 207
+Description: ['1.4', 'Trendy']
+Year: 2011
+Price: 63.900 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Highline']
+Year: 2015
+Price: 153.500 TL
+******************************
+Brand: Fiat
+Model: Palio
+Description: ['1.2', 'SL']
+Year: 2003
+Price: 18.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2016
+Price: 80.900 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'CRDi', 'Jump']
+Year: 2016
+Price: 85.900 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2018
+Price: 183.000 TL
+******************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.6', 'HDi', 'Confort']
+Year: 2016
+Price: 65.000 TL
+******************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.6', 'HDi', 'Live']
+Year: 2017
+Price: 89.000 TL
+******************************
+Brand: Tofaş
+Model: Şahin
+Description: ['1.6']
+Year: 1997
+Price: 18.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.9', 'TDi', 'Comfortline']
+Year: 2001
+Price: 55.000 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'E', '200', 'Kompressor', 'Avantgarde']
+Year: 1998
+Price: 70.000 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320d', 'Technology']
+Year: 2014
+Price: 197.500 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.4', 'Fire', 'Lounge']
+Year: 2019
+Price: 115.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Extreme']
+Year: 2011
+Price: 56.000 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Touch', 'Plus']
+Year: 2013
+Price: 81.000 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Trend', 'X']
+Year: 2013
+Price: 97.000 TL
+******************************
+Brand: Opel
+Model: Vectra
+Description: ['2.0', 'DTI', 'CD']
+Year: 1999
+Price: 32.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Turbo', 'Icon']
+Year: 2018
+Price: 129.000 TL
+******************************
+Page No: 35
+**************************************************
+Brand: Tofaş
+Model: Doğan
+Description: ['1.6', 'ie']
+Year: 2001
+Price: 18.850 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'Trendline']
+Year: 2008
+Price: 65.000 TL
+******************************
+Brand: Fiat
+Model: Albea
+Description: ['1.3', 'Multijet', 'Active']
+Year: 2006
+Price: 29.500 TL
+******************************
+Brand: Volvo
+Model: S60
+Description: ['2.0', 'T']
+Year: 2005
+Price: 68.000 TL
+******************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.6', 'HDi', 'Exclusive']
+Year: 2016
+Price: 80.000 TL
+******************************
+Brand: Renault
+Model: R
+Description: ['19', '1.9', 'Europa', 'RN']
+Year: 2000
+Price: 16.000 TL
+******************************
+Brand: Volvo
+Model: V40
+Description: ['1.6']
+Year: 2001
+Price: 50.250 TL
+******************************
+Brand: Dacia
+Model: Sandero
+Description: ['1.5', 'dCi', 'Stepway']
+Year: 2015
+Price: 82.500 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['1.3', 'LS']
+Year: 1998
+Price: 23.000 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'TDi', 'Comfortline']
+Year: 2010
+Price: 64.500 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Authentique']
+Year: 2012
+Price: 60.000 TL
+******************************
+Brand: Hyundai
+Model: Getz
+Description: ['1.4', 'DOHC', 'HY', 'KLM']
+Year: 2006
+Price: 45.600 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.5', 'TDCi', 'Trend', 'X']
+Year: 2016
+Price: 128.900 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.4', 'TSi', 'Highline']
+Year: 2017
+Price: 203.500 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'CDTI', 'Sport']
+Year: 2015
+Price: 128.000 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.25', 'Trend', 'X']
+Year: 2015
+Price: 74.750 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.2', 'MPI', 'Style']
+Year: 2015
+Price: 89.900 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Expression']
+Year: 2012
+Price: 45.850 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Essentia']
+Year: 2013
+Price: 63.850 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.3', 'CDTI', 'Edition']
+Year: 2013
+Price: 78.950 TL
+******************************
+Page No: 36
+**************************************************
+Brand: Tofaş
+Model: Doğan
+Description: ['SLX']
+Year: 1993
+Price: 15.500 TL
+******************************
+Brand: Chevrolet
+Model: Aveo
+Description: ['1.2', 'LS']
+Year: 2011
+Price: 49.000 TL
+******************************
+Brand: Renault
+Model: R
+Description: ['9', '1.4', 'Broadway']
+Year: 1992
+Price: 15.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.4', 'T', 'Enjoy', 'Plus']
+Year: 2012
+Price: 87.500 TL
+******************************
+Brand: Honda
+Model: City
+Description: ['1.4', 'Comfort']
+Year: 2008
+Price: 58.750 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'Titanium']
+Year: 2011
+Price: 83.850 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.4', 'Authentique']
+Year: 2005
+Price: 42.750 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.5', 'TD']
+Year: 2000
+Price: 29.500 TL
+******************************
+Brand: Skoda
+Model: SuperB
+Description: ['1.6', 'TDI', 'Elegance']
+Year: 2011
+Price: 130.000 TL
+******************************
+Brand: Renault
+Model: R
+Description: ['9', '1.4', 'Broadway', 'RL']
+Year: 1997
+Price: 16.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Night', '&', 'Day']
+Year: 2012
+Price: 57.500 TL
+******************************
+Brand: BMW
+Model: 7
+Description: ['Serisi', '740i', 'Long']
+Year: 2000
+Price: 70.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Authentique']
+Year: 2012
+Price: 48.500 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['1.5', 'CRDi', 'Admire']
+Year: 2004
+Price: 30.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Comfortline']
+Year: 2015
+Price: 94.750 TL
+******************************
+Brand: Peugeot
+Model: 206
+Description: ['1.4', 'HDi', 'X-Design']
+Year: 2005
+Price: 37.000 TL
+******************************
+Brand: Volkswagen
+Model: VW
+Description: ['CC', '1.8', 'TSi']
+Year: 2011
+Price: 132.750 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Titanium']
+Year: 2009
+Price: 59.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Icon']
+Year: 2017
+Price: 102.500 TL
+******************************
+Brand: Opel
+Model: Vectra
+Description: ['1.6', 'Comfort']
+Year: 2004
+Price: 40.900 TL
+******************************
+
+Page No: 37
+**************************************************
+Brand: Opel
+Model: Vectra
+Description: ['1.6', 'Comfort']
+Year: 2004
+Price: 40.900 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['0.9', 'Icon']
+Year: 2016
+Price: 100.000 TL
+******************************
+Brand: Renault
+Model: Symbol
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2016
+Price: 68.500 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Actual']
+Year: 2011
+Price: 50.000 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'ECO', 'Elegance']
+Year: 2018
+Price: 174.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Joy']
+Year: 2018
+Price: 90.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'Elegance']
+Year: 2004
+Price: 43.500 TL
+******************************
+Brand: Peugeot
+Model: 206
+Description: ['2.0', 'GTI']
+Year: 2000
+Price: 28.000 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '316i', 'Compact']
+Year: 2000
+Price: 40.000 TL
+******************************
+Brand: Kia
+Model: Rio
+Description: ['1.4', 'CRDi', 'Comfort']
+Year: 2016
+Price: 82.500 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Active', 'Plus']
+Year: 2013
+Price: 58.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.4', 'Dynamique']
+Year: 2002
+Price: 36.000 TL
+******************************
+Brand: Audi
+Model: A5
+Description: ['Sportback', '2.0', 'TDI', 'Quattro']
+Year: 2016
+Price: 397.000 TL
+******************************
+Brand: BMW
+Model: 1
+Description: ['Serisi', '116i', 'Standart']
+Year: 2008
+Price: 87.000 TL
+******************************
+Brand: Fiat
+Model: Punto
+Description: ['Grande', '1.3', 'Multijet', 'Dynamic']
+Year: 2006
+Price: 57.000 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Icon']
+Year: 2015
+Price: 114.000 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.4', 'Fire', 'Easy']
+Year: 2014
+Price: 63.500 TL
+******************************
+Brand: Chevrolet
+Model: Lacetti
+Description: ['1.6', 'SX']
+Year: 2005
+Price: 45.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.4', 'RNA']
+Year: 2000
+Price: 33.500 TL
+******************************
+Brand: Volvo
+Model: S60
+Description: ['1.6', 'D', 'Advance']
+Year: 2014
+Price: 145.000 TL
+******************************
+Page No: 38
+**************************************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Dynamique']
+Year: 2005
+Price: 48.750 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.2', 'MPI', 'Jump']
+Year: 2017
+Price: 82.000 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Touch']
+Year: 2016
+Price: 97.500 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2015
+Price: 165.000 TL
+******************************
+Brand: Fiat
+Model: Albea
+Description: ['1.2', 'SL']
+Year: 2003
+Price: 38.000 TL
+******************************
+Brand: Peugeot
+Model: 107
+Description: ['1.0', 'Trendy']
+Year: 2012
+Price: 65.000 TL
+******************************
+Brand: Tofaş
+Model: Şahin
+Description: ['S']
+Year: 1997
+Price: 12.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.0', 'TCe', 'Joy']
+Year: 2020
+Price: 131.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Active']
+Year: 2014
+Price: 95.500 TL
+******************************
+Brand: Hyundai
+Model: Matrix
+Description: ['1.6', 'Team']
+Year: 2009
+Price: 61.000 TL
+******************************
+Brand: Fiat
+Model: Panda
+Description: ['1.2', 'Dynamic']
+Year: 2005
+Price: 41.000 TL
+******************************
+Brand: Citroen
+Model: C-Elysee
+Description: ['1.6', 'HDi', 'Live']
+Year: 2018
+Price: 114.000 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Extreme']
+Year: 2011
+Price: 70.750 TL
+******************************
+Brand: Mitsubishi
+Model: Space
+Description: ['Star', '1.9', 'DI-D']
+Year: 2002
+Price: 45.250 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.4', 'RNA']
+Year: 2000
+Price: 31.000 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.33', 'Life']
+Year: 2015
+Price: 106.000 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '200', 'D', 'AMG']
+Year: 2018
+Price: 437.500 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Mode', 'Plus']
+Year: 2015
+Price: 95.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.6', 'Joy']
+Year: 2018
+Price: 126.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'SportTourer', 'Touch']
+Year: 2017
+Price: 115.950 TL
+******************************
+Page No: 39
+**************************************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320i', 'ED', '40th', 'Year', 'Edition']
+Year: 2016
+Price: 297.000 TL
+******************************
+Brand: Seat
+Model: Ibiza
+Description: ['1.4', 'Style']
+Year: 2013
+Price: 109.000 TL
+******************************
+Brand: Kia
+Model: Ceed
+Description: ['1.6', 'CRDi', 'Comfort']
+Year: 2015
+Price: 121.000 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.3', 'XE']
+Year: 1996
+Price: 25.800 TL
+******************************
+Brand: Fiat
+Model: Tipo
+Description: ['1.4', 'S']
+Year: 1998
+Price: 19.850 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.6', 'TDi', 'BlueMotion', 'R', 'Line']
+Year: 2020
+Price: 405.000 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '200', 'BlueTEC', 'Exclusive']
+Year: 2017
+Price: 335.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Expression']
+Year: 2010
+Price: 55.000 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Titanium']
+Year: 2012
+Price: 92.000 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Privilege']
+Year: 2012
+Price: 99.500 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'Ti-VCT', 'Trend', 'X']
+Year: 2017
+Price: 121.500 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Midline', 'Plus']
+Year: 2015
+Price: 121.000 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.4', 'Fire', 'Easy']
+Year: 2019
+Price: 92.750 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.4', 'Fire', 'Active']
+Year: 2008
+Price: 49.500 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'CRDi', 'Team']
+Year: 2011
+Price: 33.000 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Era', '1.5', 'CRDi-VGT', 'Team']
+Year: 2009
+Price: 45.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'CDTI', 'Edition']
+Year: 2014
+Price: 90.000 TL
+******************************
+Brand: Fiat
+Model: Palio
+Description: ['1.4', 'EL']
+Year: 2000
+Price: 23.500 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.4', 'Design']
+Year: 2016
+Price: 82.500 TL
+******************************
+Brand: Audi
+Model: A3
+Description: ['Sedan', '1.6', 'TDI', 'Attraction']
+Year: 2015
+Price: 161.500 TL
+******************************
+Page No: 40
+**************************************************
+Brand: Volkswagen
+Model: Passat
+Description: ['2.0', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2011
+Price: 110.000 TL
+******************************
+Brand: Nissan
+Model: Micra
+Description: ['1.2', 'Tekna']
+Year: 2004
+Price: 37.500 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '180', 'Elegance']
+Year: 1994
+Price: 43.000 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '200', 'BlueTEC', 'AMG']
+Year: 2018
+Price: 435.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'Comfortline']
+Year: 2011
+Price: 79.000 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'Elegance']
+Year: 2008
+Price: 112.000 TL
+******************************
+Brand: Kia
+Model: Rio
+Description: ['1.4', 'CVVT', 'Comfort']
+Year: 2017
+Price: 110.000 TL
+******************************
+Brand: Tofaş
+Model: Şahin
+Description: ['5', 'Vites']
+Year: 1990
+Price: 7.750 TL
+******************************
+Brand: Renault
+Model: R
+Description: ['9', '1.4', 'Broadway', 'RL']
+Year: 1997
+Price: 24.500 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.8', 'T', 'Comfortline']
+Year: 2001
+Price: 62.000 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Active']
+Year: 2008
+Price: 40.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.4', 'Twinport', 'Essentia']
+Year: 2012
+Price: 87.000 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'ECO', 'Elegance']
+Year: 2012
+Price: 125.750 TL
+******************************
+Brand: Seat
+Model: Ibiza
+Description: ['1.4', 'Reference']
+Year: 2011
+Price: 69.900 TL
+******************************
+Brand: Nissan
+Model: Micra
+Description: ['1.2', 'Tekna']
+Year: 2005
+Price: 63.500 TL
+******************************
+Brand: Fiat
+Model: Tipo
+Description: ['1.4', 'S']
+Year: 1998
+Price: 24.750 TL
+******************************
+Brand: Seat
+Model: Leon
+Description: ['1.6', 'TDI', 'CR', 'Style']
+Year: 2013
+Price: 134.750 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Collection']
+Year: 2008
+Price: 45.750 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '180', 'Kompressor', 'BlueEfficiency', 'Fascination']
+Year: 2009
+Price: 117.500 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '316i', 'M', 'Sport']
+Year: 2012
+Price: 143.000 TL
+******************************
+
+Page No: 41
+**************************************************
+Brand: Skoda
+Model: Octavia
+Description: ['1.6', 'Classic']
+Year: 2011
+Price: 71.700 TL
+******************************
+Brand: Chevrolet
+Model: Kalos
+Description: ['1.4', 'SX']
+Year: 2004
+Price: 42.500 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.4', 'TSi', 'BlueMotion', 'Comfortline']
+Year: 2016
+Price: 147.000 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'TDi', 'Comfortline']
+Year: 2014
+Price: 116.750 TL
+******************************
+Brand: Citroen
+Model: C5
+Description: ['1.6', 'THP', 'Confort']
+Year: 2011
+Price: 91.500 TL
+******************************
+Brand: Fiat
+Model: Uno
+Description: ['70', 'S']
+Year: 2000
+Price: 19.600 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Alize']
+Year: 2006
+Price: 36.500 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'Comfortline']
+Year: 2010
+Price: 85.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Icon']
+Year: 2017
+Price: 125.500 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Era', '1.6', 'Team']
+Year: 2010
+Price: 73.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Joy']
+Year: 2016
+Price: 87.500 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'Comfort']
+Year: 2011
+Price: 86.000 TL
+******************************
+Brand: Honda
+Model: Civic
+Description: ['1.6', 'i-VTEC', 'Eco', 'Executive']
+Year: 2015
+Price: 137.000 TL
+******************************
+Brand: Toyota
+Model: Auris
+Description: ['1.33', 'Life']
+Year: 2016
+Price: 106.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Comfortline']
+Year: 2016
+Price: 108.000 TL
+******************************
+Brand: Fiat
+Model: Tipo
+Description: ['1.6', 'S']
+Year: 1996
+Price: 16.400 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '200', 'Kompressor', 'Avantgarde']
+Year: 2008
+Price: 124.750 TL
+******************************
+Brand: Peugeot
+Model: 308
+Description: ['1.6', 'e-HDi', 'Access']
+Year: 2012
+Price: 75.500 TL
+******************************
+Brand: Audi
+Model: A5
+Description: ['Coupe', '1.8', 'TFSI']
+Year: 2008
+Price: 144.850 TL
+******************************
+Brand: Fiat
+Model: Tipo
+Description: ['1.4', 'S']
+Year: 1998
+Price: 18.450 TL
+******************************
+Page No: 42
+**************************************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.6', 'Classic']
+Year: 1998
+Price: 30.750 TL
+******************************
+Brand: Fiat
+Model: Palio
+Description: ['1.2', 'EL']
+Year: 2004
+Price: 33.500 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Pop']
+Year: 2014
+Price: 71.500 TL
+******************************
+Brand: Skoda
+Model: SuperB
+Description: ['1.6', 'TDI', 'Elegance']
+Year: 2012
+Price: 97.500 TL
+******************************
+Brand: Peugeot
+Model: 306
+Description: ['1.6', 'Griffe']
+Year: 1999
+Price: 26.500 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.4', 'Fire', 'Active']
+Year: 2009
+Price: 45.000 TL
+******************************
+Brand: Ford
+Model: Mondeo
+Description: ['1.6', 'TDCi', 'Trend']
+Year: 2011
+Price: 70.500 TL
+******************************
+Brand: Tofaş
+Model: Serçe
+Description: []
+Year: 1992
+Price: 11.500 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.6', 'TDi', 'Comfortline']
+Year: 2013
+Price: 97.500 TL
+******************************
+Brand: Fiat
+Model: Panda
+Description: ['1.2', 'Dynamic']
+Year: 2005
+Price: 47.500 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.4', 'TSi', 'Comfortline']
+Year: 2013
+Price: 121.000 TL
+******************************
+Brand: Skoda
+Model: Octavia
+Description: ['1.2', 'TSI', 'Ambition']
+Year: 2015
+Price: 118.000 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Active', 'Plus']
+Year: 2012
+Price: 59.500 TL
+******************************
+Brand: Audi
+Model: A4
+Description: ['Sedan', '1.4', 'TFSI']
+Year: 2016
+Price: 265.000 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.4', 'TSi', 'BlueMotion', 'Comfortline']
+Year: 2017
+Price: 143.750 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.5', 'TDCi', 'Style']
+Year: 2016
+Price: 128.500 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'C', '180', 'Kompressor', 'BlueEfficiency', 'Avantgard']
+Year: 2008
+Price: 121.350 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Authentique']
+Year: 2008
+Price: 52.500 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Active', 'Plus']
+Year: 2010
+Price: 48.500 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320i']
+Year: 2000
+Price: 61.000 TL
+******************************
+Page No: 43
+**************************************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320i']
+Year: 2000
+Price: 61.000 TL
+******************************
+Brand: Skoda
+Model: Octavia
+Description: ['1.6', 'TDI', 'Style']
+Year: 2015
+Price: 137.000 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Dynamique']
+Year: 2004
+Price: 61.500 TL
+******************************
+Brand: Audi
+Model: A6
+Description: ['Sedan', '2.0', 'TDI']
+Year: 2008
+Price: 123.850 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.6', 'Dynamique']
+Year: 2005
+Price: 56.500 TL
+******************************
+Brand: Peugeot
+Model: 208
+Description: ['1.0', 'VTi', 'Access']
+Year: 2014
+Price: 55.500 TL
+******************************
+Brand: Tofaş
+Model: Şahin
+Description: ['1.6']
+Year: 1992
+Price: 15.500 TL
+******************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '525d', 'xDrive', 'Executive', 'M', 'Sport']
+Year: 2016
+Price: 445.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.4', 'Alize']
+Year: 2006
+Price: 51.500 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'CDTI', 'Cosmo']
+Year: 2015
+Price: 145.750 TL
+******************************
+Brand: BMW
+Model: 5
+Description: ['Serisi', '525d', 'xDrive', 'M', 'Sport']
+Year: 2015
+Price: 392.000 TL
+******************************
+Brand: Volkswagen
+Model: Jetta
+Description: ['1.6', 'Comfortline']
+Year: 2007
+Price: 54.500 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['2.0', 'TDi', 'BlueMotion', 'Highline']
+Year: 2013
+Price: 143.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.2', 'Trendline']
+Year: 2013
+Price: 69.900 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'CDTI', 'Edition']
+Year: 2015
+Price: 106.750 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['Variant', '2.0', 'TDi', 'Comfortline']
+Year: 2012
+Price: 112.000 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'E', '250', 'D']
+Year: 1992
+Price: 54.500 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Extreme']
+Year: 2012
+Price: 71.000 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Trend', 'X']
+Year: 2017
+Price: 112.000 TL
+******************************
+Brand: Dacia
+Model: Logan
+Description: ['1.5', 'dCi', 'MCV', 'Ambiance']
+Year: 2010
+Price: 41.000 TL
+******************************
+Page No: 44
+**************************************************
+Brand: Hyundai
+Model: Getz
+Description: ['1.4', 'DOHC', 'HY', 'KLM']
+Year: 2006
+Price: 49.000 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'Comfortline']
+Year: 1999
+Price: 39.000 TL
+******************************
+Brand: Tofaş
+Model: Doğan
+Description: ['SLX', 'ie']
+Year: 1997
+Price: 25.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.6', 'RXT']
+Year: 2000
+Price: 34.500 TL
+******************************
+Brand: Fiat
+Model: Punto
+Description: ['1.3', 'Multijet', 'Popstar']
+Year: 2014
+Price: 63.000 TL
+******************************
+Brand: Nissan
+Model: Micra
+Description: ['1.2', 'Street']
+Year: 2016
+Price: 95.000 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2016
+Price: 153.250 TL
+******************************
+Brand: Renault
+Model: Fluence
+Description: ['1.5', 'dCi', 'Touch', 'Plus']
+Year: 2016
+Price: 118.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.7', 'DTi', 'Comfort']
+Year: 2003
+Price: 24.800 TL
+******************************
+Brand: Toyota
+Model: Corolla
+Description: ['1.4', 'D-4D', 'Comfort']
+Year: 2008
+Price: 70.500 TL
+******************************
+Brand: Tofaş
+Model: Şahin
+Description: ['1.4']
+Year: 1999
+Price: 17.000 TL
+******************************
+Brand: Dacia
+Model: Sandero
+Description: ['1.5', 'dCi', 'Ambiance']
+Year: 2013
+Price: 60.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'Dynamique']
+Year: 2006
+Price: 57.500 TL
+******************************
+Brand: Hyundai
+Model: Accent
+Description: ['Blue', '1.6', 'CRDI', 'Prime']
+Year: 2017
+Price: 121.900 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.5', 'dCi', 'SportTourer', 'Touch']
+Year: 2017
+Price: 115.900 TL
+******************************
+Brand: Ford
+Model: C-Max
+Description: ['1.6', 'Trend']
+Year: 2013
+Price: 105.000 TL
+******************************
+Brand: Chevrolet
+Model: Kalos
+Description: ['1.4', 'SE']
+Year: 2004
+Price: 28.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.8', 'RSi']
+Year: 1997
+Price: 24.500 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Trend', 'X']
+Year: 2011
+Price: 66.500 TL
+******************************
+Brand: Hyundai
+Model: Elantra
+Description: ['1.6', 'D-CVVT', 'Elite']
+Year: 2015
+Price: 121.500 TL
+******************************
+
+Page No: 45
+**************************************************
+Brand: Volvo
+Model: V40
+Description: ['Cross', 'Country', '1.6', 'D', 'Advance']
+Year: 2014
+Price: 175.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.8', 'T', 'Highline']
+Year: 1997
+Price: 49.500 TL
+******************************
+Brand: Peugeot
+Model: 206+
+Description: ['1.4', 'Urban', 'Move']
+Year: 2012
+Price: 44.500 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Trendline']
+Year: 2014
+Price: 96.900 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.5', 'dCi', 'Extreme']
+Year: 2008
+Price: 51.500 TL
+******************************
+Brand: Peugeot
+Model: 307
+Description: ['1.6', 'XT']
+Year: 2004
+Price: 48.900 TL
+******************************
+Brand: Renault
+Model: Megane
+Description: ['1.6', 'Joy']
+Year: 2019
+Price: 132.000 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '316i', 'Touring']
+Year: 2005
+Price: 65.000 TL
+******************************
+Brand: Ford
+Model: B-Max
+Description: ['1.5', 'TDCi', 'Titanium']
+Year: 2012
+Price: 98.500 TL
+******************************
+Brand: Fiat
+Model: Egea
+Description: ['1.6', 'Multijet', 'Urban']
+Year: 2016
+Price: 108.500 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.4', 'RT']
+Year: 1998
+Price: 22.750 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'MPI', 'Style']
+Year: 2016
+Price: 96.000 TL
+******************************
+Brand: Renault
+Model: R
+Description: ['19', '1.6', 'Europa', 'RNE']
+Year: 1998
+Price: 24.500 TL
+******************************
+Brand: Ford
+Model: Taunus
+Description: ['1.6', 'GT']
+Year: 1991
+Price: 12.750 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'Sportline']
+Year: 1998
+Price: 29.000 TL
+******************************
+Brand: Volkswagen
+Model: Polo
+Description: ['1.4', 'TDi', 'Trendline']
+Year: 2014
+Price: 74.750 TL
+******************************
+Brand: Tofaş
+Model: Şahin
+Description: ['1.6']
+Year: 1994
+Price: 17.500 TL
+******************************
+Brand: Ford
+Model: Focus
+Description: ['1.6', 'TDCi', 'Trend']
+Year: 2015
+Price: 114.500 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Essentia']
+Year: 2014
+Price: 81.000 TL
+******************************
+Page No: 46
+**************************************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'FSi', 'Comfortline', 'Plus']
+Year: 2006
+Price: 68.750 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.3', 'CDTI', 'Enjoy', 'Elegance']
+Year: 2012
+Price: 68.000 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Pop']
+Year: 2015
+Price: 65.700 TL
+******************************
+Brand: Hyundai
+Model: i20
+Description: ['1.4', 'CRDi', 'Jump']
+Year: 2012
+Price: 61.000 TL
+******************************
+Brand: Ford
+Model: Fiesta
+Description: ['1.4', 'TDCi', 'Titanium', 'X']
+Year: 2012
+Price: 70.500 TL
+******************************
+Brand: Volkswagen
+Model: Golf
+Description: ['1.6', 'TDi', 'BlueMotion', 'Comfortline']
+Year: 2016
+Price: 172.000 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Pop']
+Year: 2015
+Price: 65.500 TL
+******************************
+Brand: Fiat
+Model: Linea
+Description: ['1.3', 'Multijet', 'Urban']
+Year: 2013
+Price: 70.000 TL
+******************************
+Brand: Renault
+Model: Clio
+Description: ['1.2', 'Joy']
+Year: 2017
+Price: 85.000 TL
+******************************
+Brand: Opel
+Model: Astra
+Description: ['1.6', 'Enjoy', 'Elegance']
+Year: 2009
+Price: 76.750 TL
+******************************
+Brand: Dacia
+Model: Sandero
+Description: ['0.9', 'TCe', 'Stepway']
+Year: 2019
+Price: 94.000 TL
+******************************
+Brand: Peugeot
+Model: 301
+Description: ['1.6', 'HDi', 'Access']
+Year: 2017
+Price: 86.000 TL
+******************************
+Brand: Opel
+Model: Corsa
+Description: ['1.3', 'CDTI', 'Enjoy']
+Year: 2012
+Price: 84.000 TL
+******************************
+Brand: Volkswagen
+Model: Passat
+Description: ['1.4', 'TSi', 'BlueMotion', 'Comfortline']
+Year: 2012
+Price: 152.000 TL
+******************************
+Brand: BMW
+Model: 3
+Description: ['Serisi', '320d', 'Luxury']
+Year: 2012
+Price: 207.000 TL
+******************************
+Brand: Ford
+Model: C-Max
+Description: ['1.6', 'TDCi', 'Titanium', 'X']
+Year: 2008
+Price: 85.500 TL
+******************************
+Brand: Renault
+Model: R
+Description: ['12', 'Toros']
+Year: 1994
+Price: 19.950 TL
+******************************
+Brand: Renault
+Model: R
+Description: ['12', 'SW']
+Year: 1977
+Price: 19.750 TL
+******************************
+Brand: Tofaş
+Model: Doğan
+Description: ['S']
+Year: 1986
+Price: 9.750 TL
+******************************
+Brand: Mercedes
+Model: -
+Description: ['Benz', 'E', '200']
+Year: 1987
+Price: 26.500 TL
+******************************
